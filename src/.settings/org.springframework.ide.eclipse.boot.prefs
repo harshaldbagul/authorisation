@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+spring.boot.launch.profile.history=mvn clean install;clean install;
